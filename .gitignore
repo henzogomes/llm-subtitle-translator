@@ -29,3 +29,10 @@ temp/
 
 # Misc
 .cache/
+
+
+input/*
+!input/.gitkeep
+
+output/*
+!output/.gitkeep
